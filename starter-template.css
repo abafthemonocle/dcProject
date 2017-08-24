@@ -11,21 +11,23 @@ h2 {
   padding-top: 40px;
 }
 form {
-  position: absolute;
+  /* position: absolute;
   right: 400px;
-  bottom: 150px;
+  bottom: 150px; */
   width: 45%;
  color: white;
+ margin: 0 37%;
 }
 h3 {
   text-align: center;
   display: block;
   word-wrap: normal;
   width: 15em;
-  margin-left: 627px;
+  margin: 0 auto;
+  /* margin-left: 627px; */
   border: 1px;
   color: white;
-  margin-top: 175px;
+  /* margin-top: 175px; */
   font-size: 32px;
 
 }

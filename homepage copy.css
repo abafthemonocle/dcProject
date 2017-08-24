@@ -38,3 +38,11 @@
   font-size: 16px;
   padding: 16px 32px;
 }
+
+.img-spacer {
+  padding-bottom: 28px;
+}
+
+.row-container {
+  margin: 0 35px;
+}
