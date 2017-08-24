@@ -1,0 +1,30 @@
+.fa {
+  color: white;
+}
+
+#userPlus {
+  padding: 20px;
+}
+#navbarSupportedContent {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#who {
+  padding-right: 25px;
+}
+
+#goals {
+  padding-right: 25px;
+}
+
+#melissa {
+  margin-right: 140px;
+}
+
+#jose {
+  margin-right: 140px;
+}
+img {
+  margin: auto;
+}

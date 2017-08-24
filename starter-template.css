@@ -1,0 +1,74 @@
+body {
+  background: url("telephone.jpg") top center no-repeat;
+  background-size: cover;
+  height: 100%;
+
+}
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-size: 60px;
+  padding-top: 40px;
+}
+form {
+  position: absolute;
+  right: 400px;
+  bottom: 150px;
+  width: 45%;
+ color: white;
+}
+h3 {
+  text-align: center;
+  display: block;
+  word-wrap: normal;
+  width: 15em;
+  margin-left: 627px;
+  border: 1px;
+  color: white;
+  margin-top: 175px;
+  font-size: 32px;
+
+}
+
+#yourName {
+  width: 50%;
+color: white;
+}
+#emailLabel {
+  margin-top: 20px;
+  color: white;
+}
+#exampleInputEmail1{
+  width: 50%;
+}
+#comments {
+  margin-top: 20px;
+  color: white;
+}
+#exampleFormControlTextarea1 {
+  width: 50%;
+}
+#submit {
+  /*margin: 10px 0 2px 0;*/
+}
+#facebook {
+  position: fixed;
+  bottom: 0px;
+  left: 0%;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+#twitter {
+  position: fixed;
+  bottom: 0px;
+  left: 7%;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+#instagram {
+  position: fixed;
+  bottom: 0px;
+  left: 3.5%;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
