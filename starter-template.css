@@ -1,5 +1,5 @@
 body {
-  background: url("telephone.jpg") top center no-repeat;
+  background: url("telephone.jpg") no-repeat center center fixed;
   background-size: cover;
   height: 100%;
 
